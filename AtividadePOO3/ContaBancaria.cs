@@ -11,5 +11,6 @@ namespace AtividadePOO3
         public abstract void Sacar(double valor);
         public abstract void Depositar(double valor);
         public abstract void MostrarDados();
+        public abstract decimal GetSaldo();
     }
 }

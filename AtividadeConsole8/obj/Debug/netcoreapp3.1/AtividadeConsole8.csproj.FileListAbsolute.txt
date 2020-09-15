@@ -17,10 +17,9 @@ C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole8\
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole8\bin\Debug\netcoreapp3.1\AtividadeConsole8.runtimeconfig.dev.json
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole8\bin\Debug\netcoreapp3.1\AtividadeConsole8.dll
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole8\bin\Debug\netcoreapp3.1\AtividadeConsole8.pdb
-C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole8\obj\Debug\netcoreapp3.1\AtividadeConsole8.csprojAssemblyReference.cache
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole8\obj\Debug\netcoreapp3.1\AtividadeConsole8.AssemblyInfoInputs.cache
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole8\obj\Debug\netcoreapp3.1\AtividadeConsole8.AssemblyInfo.cs
-C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole8\obj\Debug\netcoreapp3.1\AtividadeConsole8.csproj.CoreCompileInputs.cache
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole8\obj\Debug\netcoreapp3.1\AtividadeConsole8.dll
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole8\obj\Debug\netcoreapp3.1\AtividadeConsole8.pdb
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole8\obj\Debug\netcoreapp3.1\AtividadeConsole8.genruntimeconfig.cache
+C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole8\obj\Debug\netcoreapp3.1\AtividadeConsole8.csproj.CoreCompileInputs.cache

@@ -54,5 +54,10 @@ namespace AtividadePOO3
             Console.WriteLine($" Saldo: R$ {Saldo}\n");
             Console.WriteLine($" Taxa de operação: R$ {TaxaDeOperacao}\n");
         }
+
+        public override decimal GetSaldo()
+        {
+            return Saldo;
+        }
     }
 }

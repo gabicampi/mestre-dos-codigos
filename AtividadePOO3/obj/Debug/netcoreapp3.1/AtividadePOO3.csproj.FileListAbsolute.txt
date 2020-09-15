@@ -16,13 +16,10 @@ C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\bin\
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\bin\Debug\netcoreapp3.1\AtividadePOO3.runtimeconfig.dev.json
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\bin\Debug\netcoreapp3.1\AtividadePOO3.dll
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\bin\Debug\netcoreapp3.1\AtividadePOO3.pdb
-C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\bin\Debug\netcoreapp3.1\Castle.Core.dll
-C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\bin\Debug\netcoreapp3.1\Moq.dll
-C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\obj\Debug\netcoreapp3.1\AtividadePOO3.csprojAssemblyReference.cache
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\obj\Debug\netcoreapp3.1\AtividadePOO3.AssemblyInfoInputs.cache
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\obj\Debug\netcoreapp3.1\AtividadePOO3.AssemblyInfo.cs
-C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\obj\Debug\netcoreapp3.1\AtividadePOO3.csproj.CoreCompileInputs.cache
-C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\obj\Debug\netcoreapp3.1\AtividadePOO3.csproj.CopyComplete
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\obj\Debug\netcoreapp3.1\AtividadePOO3.dll
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\obj\Debug\netcoreapp3.1\AtividadePOO3.pdb
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\obj\Debug\netcoreapp3.1\AtividadePOO3.genruntimeconfig.cache
+C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\obj\Debug\netcoreapp3.1\AtividadePOO3.csproj.CoreCompileInputs.cache
+C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO3\obj\Debug\netcoreapp3.1\AtividadePOO3.csprojAssemblyReference.cache

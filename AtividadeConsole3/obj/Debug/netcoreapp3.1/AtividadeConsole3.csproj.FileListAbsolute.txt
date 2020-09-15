@@ -17,10 +17,10 @@ C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole3\
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole3\bin\Debug\netcoreapp3.1\AtividadeConsole3.runtimeconfig.dev.json
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole3\bin\Debug\netcoreapp3.1\AtividadeConsole3.dll
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole3\bin\Debug\netcoreapp3.1\AtividadeConsole3.pdb
-C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole3\obj\Debug\netcoreapp3.1\AtividadeConsole3.csprojAssemblyReference.cache
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole3\obj\Debug\netcoreapp3.1\AtividadeConsole3.AssemblyInfoInputs.cache
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole3\obj\Debug\netcoreapp3.1\AtividadeConsole3.AssemblyInfo.cs
-C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole3\obj\Debug\netcoreapp3.1\AtividadeConsole3.csproj.CoreCompileInputs.cache
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole3\obj\Debug\netcoreapp3.1\AtividadeConsole3.dll
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole3\obj\Debug\netcoreapp3.1\AtividadeConsole3.pdb
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole3\obj\Debug\netcoreapp3.1\AtividadeConsole3.genruntimeconfig.cache
+C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole3\obj\Debug\netcoreapp3.1\AtividadeConsole3.csprojAssemblyReference.cache
+C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadeConsole3\obj\Debug\netcoreapp3.1\AtividadeConsole3.csproj.CoreCompileInputs.cache

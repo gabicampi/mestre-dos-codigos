@@ -17,10 +17,9 @@ C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO2\bin\
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO2\bin\Debug\netcoreapp3.1\AtividadePOO2.runtimeconfig.dev.json
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO2\bin\Debug\netcoreapp3.1\AtividadePOO2.dll
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO2\bin\Debug\netcoreapp3.1\AtividadePOO2.pdb
-C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO2\obj\Debug\netcoreapp3.1\AtividadePOO2.csprojAssemblyReference.cache
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO2\obj\Debug\netcoreapp3.1\AtividadePOO2.AssemblyInfoInputs.cache
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO2\obj\Debug\netcoreapp3.1\AtividadePOO2.AssemblyInfo.cs
-C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO2\obj\Debug\netcoreapp3.1\AtividadePOO2.csproj.CoreCompileInputs.cache
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO2\obj\Debug\netcoreapp3.1\AtividadePOO2.dll
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO2\obj\Debug\netcoreapp3.1\AtividadePOO2.pdb
 C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO2\obj\Debug\netcoreapp3.1\AtividadePOO2.genruntimeconfig.cache
+C:\Users\gabriela.campi\Mestre Dos Codigos\mestre-dos-codigos\AtividadePOO2\obj\Debug\netcoreapp3.1\AtividadePOO2.csproj.CoreCompileInputs.cache

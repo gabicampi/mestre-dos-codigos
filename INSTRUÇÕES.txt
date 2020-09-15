@@ -1,0 +1,13 @@
+.::INSTRUÇÕES::..
+
+- As atividades teóricas se encontram no arquivo 'Atividades Teóricas.docx'
+
+- As atividades práticas se encontram dentro da solução 'MestreDosCodigos.sln'
+
+- Cada atividade prática se encontra em um projeto separado dentro da solução.
+
+
+
+Para executar abra a solução no Visual Studio;
+defina o projeto que deseja executar como 'Projeto de inicialização';
+e selecione 'Compilar solução'

@@ -43,5 +43,10 @@ namespace AtividadePOO3
             Console.WriteLine($" Saldo: R$ {Saldo}\n");
             Console.WriteLine($" Credito: R$ {Credito}\n");
         }
+
+        public override decimal GetSaldo()
+        {
+            return Saldo;
+        }
     }
 }

@@ -6,7 +6,7 @@ namespace AtividadePOO4
 {
     public class ControleRemoto
     {
-        private Televisao Televisao;
+        private readonly Televisao Televisao;
 
         public ControleRemoto(Televisao televisao)
         {
