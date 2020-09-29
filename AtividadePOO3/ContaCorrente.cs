@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace AtividadePOO3
 {
@@ -10,14 +8,15 @@ namespace AtividadePOO3
 
         public ContaCorrente(decimal taxaDeOperacao, decimal saldo)
         {
-            NumeroConta = (new Random()).Next();
+            var random = new Random();
+            NumeroConta = random.Next();
             Saldo = saldo;
             TaxaDeOperacao = taxaDeOperacao;
         }
 
         public override void Depositar(double valor)
         {
-            if((decimal)valor > TaxaDeOperacao)
+            if ((decimal)valor > TaxaDeOperacao)
             {
                 Console.WriteLine($" Depositando valor: R$ {valor} \n");
                 Saldo += (decimal)valor;

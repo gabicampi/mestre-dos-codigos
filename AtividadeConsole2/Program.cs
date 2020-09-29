@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace AtividadeConsole2
 {
@@ -20,15 +19,15 @@ namespace AtividadeConsole2
                 Console.WriteLine($"Digite o salário do funcionário.\n");
                 decimal salario = decimal.Parse(Console.ReadLine());
 
-                lista[contagem] = new Funcionario 
-                { 
+                lista[contagem] = new Funcionario
+                {
                     Nome = nome,
-                    Salario = salario 
+                    Salario = salario
                 };
 
                 contagem++;
             }
-                Console.Clear();
+            Console.Clear();
 
             Funcionario menorSalario = lista[0];
             Funcionario maiorSalario = lista[0];

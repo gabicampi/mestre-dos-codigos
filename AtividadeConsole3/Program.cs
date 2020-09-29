@@ -7,9 +7,9 @@ namespace AtividadeConsole3
         static void Main(string[] args)
         {
             int contagem = 1;
-            while (contagem <=100)
+            while (contagem <= 100)
             {
-                if( contagem%3 == 0)
+                if (contagem % 3 == 0)
                 {
                     Console.WriteLine($"{contagem}\n");
                 }

@@ -4,9 +4,9 @@ namespace AtividadePOO2
 {
     public class Pessoa
     {
-        private string Nome { get; set; }
-        private DateTime DataNascimento { get; set; }
-        private decimal Altura { get; set; }
+        private string Nome;
+        private DateTime DataNascimento;
+        private decimal Altura;
 
         public Pessoa(string nome, DateTime dataNascimento, decimal altura)
         {
@@ -47,8 +47,8 @@ namespace AtividadePOO2
 
         public int CalcularIdade()
         {
-            var DataHoje = DateTime.Now;
-            int idade = DataHoje.Year - DataNascimento.Year;
+            var dataHoje = DateTime.Now;
+            int idade = dataHoje.Year - DataNascimento.Year;
             if (!FezAniversarioEsteAno())
             {
                 idade--;
@@ -58,15 +58,15 @@ namespace AtividadePOO2
 
         private bool FezAniversarioEsteAno()
         {
-            var DataHoje = DateTime.Now;
+            var dataHoje = DateTime.Now;
 
-            return (DataHoje.Month > DataNascimento.Month) || (DataHoje.Month == DataNascimento.Month && DataHoje.Day >= DataNascimento.Day);
+            return (dataHoje.Month > DataNascimento.Month) || (dataHoje.Month == DataNascimento.Month && dataHoje.Day >= DataNascimento.Day);
         }
 
         public void MostrarDadosPessoais()
         {
-            Console.WriteLine($" Nome: {Nome} \n" 
-                + $" Data de Nascimento: {DataNascimento.ToShortDateString()} \n" 
+            Console.WriteLine($" Nome: {Nome} \n"
+                + $" Data de Nascimento: {DataNascimento.ToShortDateString()} \n"
                 + $" Altura: {Altura} m \n");
         }
     }

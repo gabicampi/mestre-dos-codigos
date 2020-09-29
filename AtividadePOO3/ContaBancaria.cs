@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace AtividadePOO3
+﻿namespace AtividadePOO3
 {
     public abstract class ContaBancaria : Imprimivel
     {

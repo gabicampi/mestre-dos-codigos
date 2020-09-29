@@ -44,7 +44,7 @@ namespace AtividadeConsole8
         {
             Console.Clear();
             Console.WriteLine(".::. Ordem Decrescente .::.\n");
-            lista.Sort((a,b) => b.CompareTo(a));
+            lista.Sort((a, b) => b.CompareTo(a));
             lista.ForEach(x => Console.WriteLine($"{x}"));
 
             Console.WriteLine("\nAperte qualquer botao para voltar ao menu.\n");

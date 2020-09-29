@@ -1,8 +1,4 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using AtividadePOO3;
 
 namespace AtividadePOO3.Tests
 {
@@ -12,7 +8,7 @@ namespace AtividadePOO3.Tests
         [TestMethod]
         public void DeveDepositarCorretamente()
         {
-            ContaBancaria conta = new ContaEspecial(100,100);
+            ContaBancaria conta = new ContaEspecial(100, 100);
 
             conta.Depositar(100);
 

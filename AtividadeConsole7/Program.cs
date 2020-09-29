@@ -24,7 +24,7 @@ namespace AtividadeConsole7
 
             int soma = 0;
 
-            foreach (var numero in listaValores.Where(x => x%2 == 0))
+            foreach (var numero in listaValores.Where(x => x % 2 == 0))
             {
                 soma += numero;
             }

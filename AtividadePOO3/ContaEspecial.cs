@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace AtividadePOO3
 {
@@ -10,7 +8,8 @@ namespace AtividadePOO3
 
         public ContaEspecial(decimal credito, decimal saldo)
         {
-            NumeroConta = (new Random()).Next();
+            var random = new Random();
+            NumeroConta = random.Next();
             Credito = credito;
             Saldo = saldo;
         }
@@ -24,7 +23,7 @@ namespace AtividadePOO3
 
         public override void Sacar(double valor)
         {
-            if(Saldo + Credito >= (decimal)valor)
+            if (Saldo + Credito >= (decimal)valor)
             {
                 Console.WriteLine($" Sacando valor: R$ {valor}\n");
                 Saldo -= (decimal)valor;

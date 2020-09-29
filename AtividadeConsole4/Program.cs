@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace AtividadeConsole4
 {
@@ -48,18 +47,15 @@ namespace AtividadeConsole4
         {
             Console.Clear();
             Console.WriteLine(".::. Alunos Aprovados .::.\n");
-            foreach (var aluno in alunos.Where(x => x.Nota > 7))
+            foreach (var aluno in alunos)
             {
-                Console.WriteLine($"Nome: {aluno.Nome} - Nota: {aluno.Nota}\n");
+                if (aluno.Nota > 7)
+                {
+                    Console.WriteLine($"Nome: {aluno.Nome} - Nota: {aluno.Nota}\n");
+                }
             }
             Console.WriteLine("\nAperte qualquer botao para voltar ao menu.\n");
             Console.ReadKey();
         }
-    }
-
-    public class Aluno
-    {
-        public string Nome { get; set; }
-        public decimal Nota { get; set; }
     }
 }

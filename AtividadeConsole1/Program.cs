@@ -69,7 +69,7 @@ namespace AtividadeConsole1
             var valorA = Console.ReadLine();
             Console.WriteLine("Insira o segundo valor para B: \n");
             var valorB = Console.ReadLine();
-            
+
             MostrarMenu(int.Parse(valorA), int.Parse(valorB));
         }
 
@@ -82,7 +82,8 @@ namespace AtividadeConsole1
                 Console.WriteLine(".::. Escolha uma opção .::.\n");
                 Console.WriteLine("1- Soma \n2- Subtracao \n3- Divisao \n4- Multiplicacao \n5- Mostrar valores e paridade \n0- Sair");
                 opcao = int.Parse(Console.ReadLine());
-                switch (opcao){
+                switch (opcao)
+                {
                     case 0:
                         return;
                     case 1:

@@ -1,6 +1,4 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using AtividadePOO3;
 
 namespace AtividadePOO3.Tests
 {
@@ -10,7 +8,7 @@ namespace AtividadePOO3.Tests
         [TestMethod]
         public void DeveAplicarTaxaDeOperacaoAoDepositar()
         {
-            ContaBancaria conta = new ContaCorrente(1,100);
+            ContaBancaria conta = new ContaCorrente(1, 100);
 
             conta.Depositar(10);
 

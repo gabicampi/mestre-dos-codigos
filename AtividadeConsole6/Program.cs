@@ -13,7 +13,7 @@ namespace AtividadeConsole6
             //Passar por referência significa que o objeto sofrerá qualquer alteração realizada dentro do método
 
             //Diferenças entre eles:
-            
+
             //O método com Ref necessita que o argumento seja inicializado antes de ser passado como parâmetro
 
             int exemploInicializado = 0;
